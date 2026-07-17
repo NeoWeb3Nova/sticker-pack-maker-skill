@@ -5,6 +5,7 @@ __pycache__/
 .sample-input/
 .sample-output/
 .sample-output.zip
+.tmp-compress/
 dist/
 build/
 generated-blue/
