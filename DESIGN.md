@@ -2,7 +2,7 @@
 
 ## Intent
 
-The repository should feel like a sticker production bench at midnight: bright finished characters on a precise, dark working surface. The imagery carries personality; typography and structure carry trust.
+The repository should feel like a personal sticker universe at midnight: expressive characters, collectible finishes, and a polished product surface. The cover creates desire; the rest of the README earns trust with real output and production detail.
 
 ## Color
 
@@ -19,7 +19,7 @@ Use a committed palette for generated repository artwork:
 }
 ```
 
-Crimson marks decisions and quality gates. Mint indicates a passed check. White sticker borders remain visually dominant. Do not tint the dark background toward blue or purple.
+Crimson marks decisions and quality gates. Mint indicates a passed check. White sticker borders remain visually dominant. Indigo, cyan, and restrained violet may create depth in campaign artwork; documentation surfaces stay neutral and high contrast.
 
 ## Typography
 
@@ -27,26 +27,26 @@ README text uses GitHub's native type system for speed and accessibility. Use sh
 
 ## Imagery
 
-The Hero visual shows the transformation from one character reference into a finished pack. Use real project stickers, not generic AI imagery. Give every sticker a clean silhouette and enough space to read at repository width.
+The product cover sells the outcome: one recognizable identity becoming a personal sticker universe that belongs in everyday conversation. It should feel like launch artwork, not documentation or a pipeline diagram. Use the recurring project character and real sticker language rather than generic AI imagery.
 
-Use a 16:9 or wider composition with:
+Use a 16:9 composition with:
 
-- One reference or source panel.
-- A compact transformation path.
-- A fan or row of finished transparent stickers.
-- Small visual cues for alpha, validation, and packaging.
+- One dominant character and a clear emotional focal point.
+- Several finished styles, such as cartoon, pixel art, hand-drawn, clay, comic, or retro game.
+- A subtle chat context that connects the collection to real use.
+- Strong depth, generous edge margins, and readable sticker silhouettes.
 
-Do not place generated text inside the Hero. The README supplies accessible, searchable copy below it.
+Do not place generated text, arrows, steps, checkerboards, or technical validation cues inside the cover. Keep workflow artwork in the "How it works" section. The README supplies accessible, searchable copy below the cover.
 
 ## README hierarchy
 
-1. Hero artwork and one-sentence promise.
+1. Product cover and one-sentence promise.
 2. Primary actions: install, view release, inspect the Skill.
-3. Finished-output proof.
-4. A copyable first prompt.
-5. The production workflow and quality contract.
-6. Installation alternatives and CLI reference.
-7. Starter packs, repository structure, roadmap, and contribution path.
+3. Emotional value and real messaging-platform demo.
+4. Finished-output proof.
+5. A copyable first prompt.
+6. The production workflow and quality contract.
+7. Installation alternatives, CLI reference, roadmap, and contribution path.
 
 ## Components
 

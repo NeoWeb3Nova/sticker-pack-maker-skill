@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="media/hero.webp" width="100%" alt="Sticker Pack Maker workflow, from one character reference to a validated transparent PNG sticker pack">
+  <img src="media/product-cover.webp" width="100%" alt="A personalized sticker universe with one character appearing in cartoon, pixel art, hand-drawn, clay, and retro game styles">
 
   <h1>Sticker Pack Maker</h1>
 
@@ -112,15 +112,9 @@ The script covers deterministic checks. The Skill also requires visual review fo
 
 ## How it works
 
-```mermaid
-flowchart LR
-    A["Character reference"] --> B["Scene manifest"]
-    B --> C["One render per scene"]
-    C --> D["Flat chroma source"]
-    D --> E["Soft alpha + despill"]
-    E --> F["Visual and RGBA QA"]
-    F --> G["Numbered PNGs + ZIP"]
-```
+<p align="center">
+  <img src="media/workflow-overview.webp" width="100%" alt="Sticker Pack Maker workflow, from one character reference to a validated transparent PNG sticker pack">
+</p>
 
 The image model handles composition and expression. The local Python pipeline handles background removal, validation, naming, and packaging. That split keeps creative work flexible and delivery checks reproducible.
 
