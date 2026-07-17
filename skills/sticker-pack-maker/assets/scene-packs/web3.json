@@ -1,0 +1,25 @@
+{
+  "pack": "web3",
+  "scenes": [
+    {"index": 1, "text": "钱包连接", "action": "connecting a wallet plug", "emotion": "ready", "filename": "01_钱包连接.png"},
+    {"index": 2, "text": "链上确认", "action": "checking a block confirmation", "emotion": "focused", "filename": "02_链上确认.png"},
+    {"index": 3, "text": "等待上链", "action": "watching blocks move in a queue", "emotion": "patient", "filename": "03_等待上链.png"},
+    {"index": 4, "text": "交易成功", "action": "celebrating a green transaction receipt", "emotion": "happy", "filename": "04_交易成功.png"},
+    {"index": 5, "text": "Gas太高", "action": "staring at an expensive gas gauge", "emotion": "shocked", "filename": "05_Gas太高.png"},
+    {"index": 6, "text": "跨链中", "action": "crossing a bridge between two chains", "emotion": "busy", "filename": "06_跨链中.png"},
+    {"index": 7, "text": "空投来了", "action": "catching a parachuting gift box", "emotion": "excited", "filename": "07_空投来了.png"},
+    {"index": 8, "text": "Mint成功", "action": "holding a newly minted token card", "emotion": "proud", "filename": "08_Mint成功.png"},
+    {"index": 9, "text": "加仓", "action": "adding coins to a portfolio stack", "emotion": "confident", "filename": "09_加仓.png"},
+    {"index": 10, "text": "抄底", "action": "scooping a coin at the bottom of a chart", "emotion": "bold", "filename": "10_抄底.png"},
+    {"index": 11, "text": "牛市来了", "action": "riding beside an upward bull chart", "emotion": "thrilled", "filename": "11_牛市来了.png"},
+    {"index": 12, "text": "熊市躺平", "action": "resting under a downward bear chart", "emotion": "resigned", "filename": "12_熊市躺平.png"},
+    {"index": 13, "text": "钻石手", "action": "holding a diamond with both hands", "emotion": "determined", "filename": "13_钻石手.png"},
+    {"index": 14, "text": "HODL", "action": "hugging a coin vault", "emotion": "steadfast", "filename": "14_HODL.png"},
+    {"index": 15, "text": "DYOR", "action": "researching charts with a magnifier", "emotion": "careful", "filename": "15_DYOR.png"},
+    {"index": 16, "text": "注意风险", "action": "holding a warning shield", "emotion": "serious", "filename": "16_注意风险.png"},
+    {"index": 17, "text": "合约审计", "action": "inspecting smart-contract code", "emotion": "analytical", "filename": "17_合约审计.png"},
+    {"index": 18, "text": "DAO投票", "action": "dropping a ballot into a DAO box", "emotion": "engaged", "filename": "18_DAO投票.png"},
+    {"index": 19, "text": "社区共建", "action": "building blocks with community hands", "emotion": "cooperative", "filename": "19_社区共建.png"},
+    {"index": 20, "text": "去中心化", "action": "connecting equal peer nodes", "emotion": "optimistic", "filename": "20_去中心化.png"}
+  ]
+}

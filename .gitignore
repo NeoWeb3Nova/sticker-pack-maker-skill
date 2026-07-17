@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.validator-deps/
+.sample-input/
+.sample-output/
+.sample-output.zip
+dist/
+build/
+generated-blue/
+stickers-transparent/
+*.zip

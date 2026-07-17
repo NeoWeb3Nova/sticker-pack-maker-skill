@@ -1,0 +1,25 @@
+{
+  "pack": "ai",
+  "scenes": [
+    {"index": 1, "text": "正在思考", "action": "hand on chin with floating thought nodes", "emotion": "focused", "filename": "01_正在思考.png"},
+    {"index": 2, "text": "生成中", "action": "watching a progress bar fill", "emotion": "patient", "filename": "02_生成中.png"},
+    {"index": 3, "text": "优化提示词", "action": "editing prompt cards with a pencil", "emotion": "careful", "filename": "03_优化提示词.png"},
+    {"index": 4, "text": "模型训练", "action": "coaching a small robot at a board", "emotion": "determined", "filename": "04_模型训练.png"},
+    {"index": 5, "text": "数据处理", "action": "sorting data cards into clean stacks", "emotion": "busy", "filename": "05_数据处理.png"},
+    {"index": 6, "text": "推理中", "action": "connecting logic nodes", "emotion": "analytical", "filename": "06_推理中.png"},
+    {"index": 7, "text": "代码生成", "action": "typing beside a code window", "emotion": "confident", "filename": "07_代码生成.png"},
+    {"index": 8, "text": "图片生成", "action": "holding a fresh illustration", "emotion": "delighted", "filename": "08_图片生成.png"},
+    {"index": 9, "text": "文案生成", "action": "writing on a document card", "emotion": "creative", "filename": "09_文案生成.png"},
+    {"index": 10, "text": "智能总结", "action": "compressing many pages into one card", "emotion": "satisfied", "filename": "10_智能总结.png"},
+    {"index": 11, "text": "知识检索", "action": "searching a book and database", "emotion": "curious", "filename": "11_知识检索.png"},
+    {"index": 12, "text": "自动执行", "action": "starting an automation conveyor", "emotion": "energetic", "filename": "12_自动执行.png"},
+    {"index": 13, "text": "Agent出发", "action": "sending a small agent robot forward", "emotion": "adventurous", "filename": "13_Agent出发.png"},
+    {"index": 14, "text": "调用工具", "action": "opening a toolbox of app icons", "emotion": "ready", "filename": "14_调用工具.png"},
+    {"index": 15, "text": "发现幻觉", "action": "spotting a warning on a false fact card", "emotion": "surprised", "filename": "15_发现幻觉.png"},
+    {"index": 16, "text": "需要审核", "action": "holding a review clipboard", "emotion": "serious", "filename": "16_需要审核.png"},
+    {"index": 17, "text": "AI加速", "action": "riding a rocket-shaped speed indicator", "emotion": "excited", "filename": "17_AI加速.png"},
+    {"index": 18, "text": "灵感来了", "action": "raising one finger beside a lightbulb", "emotion": "inspired", "filename": "18_灵感来了.png"},
+    {"index": 19, "text": "一键完成", "action": "pressing a green completion button", "emotion": "proud", "filename": "19_一键完成.png"},
+    {"index": 20, "text": "人机协作", "action": "high-fiving a friendly AI robot", "emotion": "cheerful", "filename": "20_人机协作.png"}
+  ]
+}

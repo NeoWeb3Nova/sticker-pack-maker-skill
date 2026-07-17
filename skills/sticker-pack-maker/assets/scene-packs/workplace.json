@@ -1,0 +1,13 @@
+{
+  "pack": "workplace",
+  "scenes": [
+    {"index": 1, "text": "收到", "action": "giving an OK gesture", "emotion": "friendly", "filename": "01_收到.png"},
+    {"index": 2, "text": "马上处理", "action": "opening a laptop and task list", "emotion": "focused", "filename": "02_马上处理.png"},
+    {"index": 3, "text": "我查一下", "action": "using a magnifier over documents", "emotion": "thoughtful", "filename": "03_我查一下.png"},
+    {"index": 4, "text": "处理中", "action": "typing beside a progress bar", "emotion": "busy", "filename": "04_处理中.png"},
+    {"index": 5, "text": "已完成", "action": "holding a checked task card", "emotion": "proud", "filename": "05_已完成.png"},
+    {"index": 6, "text": "请稍等", "action": "holding a small hourglass", "emotion": "apologetic", "filename": "06_请稍等.png"},
+    {"index": 7, "text": "开会中", "action": "presenting at a small board", "emotion": "professional", "filename": "07_开会中.png"},
+    {"index": 8, "text": "辛苦了", "action": "offering a warm drink", "emotion": "grateful", "filename": "08_辛苦了.png"}
+  ]
+}

@@ -1,0 +1,21 @@
+name: Bug report
+description: Report a reproducible problem with generation, chroma removal, or validation.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: textarea
+    attributes:
+      label: What happened?
+      description: Include the command, expected result, and actual result.
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Python and operating system
+      placeholder: Python 3.12, Windows 11
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Minimal reproduction
+      description: Remove private character assets before attaching files.

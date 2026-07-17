@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sticker Pack Maker"
+  short_description: "Generate consistent transparent PNG sticker packs"
+  default_prompt: "Use $sticker-pack-maker to create a consistent transparent PNG sticker pack from my character reference and scene list."
