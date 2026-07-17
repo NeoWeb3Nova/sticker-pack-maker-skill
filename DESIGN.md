@@ -51,7 +51,7 @@ Do not place generated text, arrows, steps, checkerboards, or technical validati
 ## Components
 
 - Badges communicate build, license, release, Python support, and stars.
-- HTML tables are reserved for side-by-side image comparison.
+- HTML tables are reserved for side-by-side image comparison and the two-column contact card.
 - Details blocks hold secondary installation and implementation information.
 - Mermaid is used only when the sequence is easier to understand visually.
 - Callouts stay concise and factual.

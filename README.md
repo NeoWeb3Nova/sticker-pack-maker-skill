@@ -16,6 +16,8 @@
     <a href="https://github.com/NeoWeb3Nova/sticker-pack-maker-skill/releases/latest"><strong>Download the latest release</strong></a>
     ·
     <a href="skills/sticker-pack-maker/SKILL.md"><strong>Read SKILL.md</strong></a>
+    ·
+    <a href="#build-with-me"><strong>Build with Neo</strong></a>
   </p>
 
   <p>
@@ -227,6 +229,30 @@ Useful contributions include a reusable scene manifest, a reproducible edge case
 
 If you publish a pack with this Skill, open a [Show and tell discussion](https://github.com/NeoWeb3Nova/sticker-pack-maker-skill/discussions) with the result and the scene manifest. Good examples will be linked from this README.
 
+## Build with me
+
+If you are building with AI, Web3, or creator tools, send me what you are working on. I am open to scene-pack collaborations, product integrations, difficult edge cases, and sticker packs worth featuring in this repository.
+
+<table>
+  <tr>
+    <td align="center" width="36%">
+      <a href="media/wechat-neo.png"><img src="media/wechat-neo.png" width="280" alt="WeChat QR code for Web3的尼奥"></a><br>
+      <strong>WeChat · Web3的尼奥</strong><br>
+      <sub>Scan to connect. Add “Sticker Pack Maker” to your note.</sub>
+    </td>
+    <td valign="middle" width="64%">
+      <h3>Neo · AI × Web3 builder</h3>
+      <p>I build open-source tools for AI, Web3, and creator workflows. Bring a character that breaks the current pipeline, an integration idea, or a pack your community wants to use.</p>
+      <p>
+        <a href="https://amshe.fun"><img src="https://img.shields.io/badge/Website-amshe.fun-6E56CF?style=for-the-badge&logo=safari&logoColor=white" alt="Visit amshe.fun"></a>
+        <a href="https://x.com/NeoWeb3Nova"><img src="https://img.shields.io/badge/X-@NeoWeb3Nova-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow NeoWeb3Nova on X"></a>
+        <a href="https://t.me/neo_web3_nova"><img src="https://img.shields.io/badge/Telegram-neo__web3__nova-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Message neo_web3_nova on Telegram"></a>
+      </p>
+      <p><strong>Found this useful?</strong> Star the repository, share what you made, or say hello.</p>
+    </td>
+  </tr>
+</table>
+
 ## 中文说明
 
 Sticker Pack Maker 把一张角色参考图变成一套经过校验的透明 PNG 表情包。它会规划不同场景，固定人物和画风，逐张处理气泡文字，保留已经生成的文件，再完成透明背景、软边清理、质量检查、命名和 ZIP 打包。
@@ -234,6 +260,8 @@ Sticker Pack Maker 把一张角色参考图变成一套经过校验的透明 PNG
 这也是一种更有温度的个人表达。你可以保留自己的脸、发型、衣服、习惯动作和幽默感，再把同一个形象做成卡通、像素、手绘、漫画、3D 黏土或复古游戏等不同风格。完成后的透明 PNG 可以用于微信和其他热门聊天平台，让每一次“收到”“加油”“稍等”都带着鲜明的个人辨识度。
 
 [观看微信实机演示](https://res.cloudinary.com/dax9eqmtk/video/upload/v1784263563/Screenrecorder-2026-07-17-12-40-30-210_jlrryj.mp4)
+
+想合作开发、定制场景包或交流使用体验，可以扫描上面的微信二维码。添加好友时备注 `Sticker Pack Maker`，也可以通过 [X](https://x.com/NeoWeb3Nova)、[Telegram](https://t.me/neo_web3_nova) 或[个人网站](https://amshe.fun)联系我。
 
 安装后可以直接这样使用：
 
