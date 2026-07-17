@@ -40,17 +40,18 @@ Do not place generated text, arrows, steps, checkerboards, or technical validati
 
 ## README hierarchy
 
-1. Product cover and one-sentence promise.
-2. Primary actions: install, view release, inspect the Skill.
-3. Emotional value and real messaging-platform demo.
-4. Finished-output proof.
-5. A copyable first prompt.
+1. Language switcher.
+2. Product cover and one-sentence promise.
+3. Primary actions: install, view release, inspect the Skill.
+4. Emotional value and real messaging-platform demo.
+5. Finished-output proof and a copyable first prompt.
 6. The production workflow and quality contract.
 7. Installation alternatives, CLI reference, roadmap, and contribution path.
 
 ## Components
 
 - Badges communicate build, license, release, Python support, and stars.
+- `README.md` contains English only; `README.zh-CN.md` contains Simplified Chinese only. Both start with the same language switcher and keep matching section order, media, commands, and links.
 - HTML tables are reserved for side-by-side image comparison and the two-column contact card.
 - Details blocks hold secondary installation and implementation information.
 - Mermaid is used only when the sequence is easier to understand visually.

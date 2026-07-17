@@ -1,3 +1,7 @@
+<p align="center">
+  <strong>English</strong> · <a href="README.zh-CN.md">简体中文</a>
+</p>
+
 <div align="center">
   <img src="media/product-cover.webp" width="100%" alt="A personalized sticker universe with one character appearing in cartoon, pixel art, hand-drawn, clay, and retro game styles">
 
@@ -213,7 +217,7 @@ skills/sticker-pack-maker/
     └── workplace.json
 ```
 
-The repository also includes unit tests, GitHub Actions CI, contribution guidance, security reporting, example output, and a [launch kit](docs/launch-kit.md). [PRODUCT.md](PRODUCT.md) and [DESIGN.md](DESIGN.md) record the positioning and visual decisions behind this page.
+The repository also includes English and Simplified Chinese READMEs, unit tests, GitHub Actions CI, contribution guidance, security reporting, example output, and a [launch kit](docs/launch-kit.md). [PRODUCT.md](PRODUCT.md) and [DESIGN.md](DESIGN.md) record the positioning and visual decisions behind this page.
 
 ## Roadmap
 
@@ -252,23 +256,6 @@ If you are building with AI, Web3, or creator tools, send me what you are workin
     </td>
   </tr>
 </table>
-
-## 中文说明
-
-Sticker Pack Maker 把一张角色参考图变成一套经过校验的透明 PNG 表情包。它会规划不同场景，固定人物和画风，逐张处理气泡文字，保留已经生成的文件，再完成透明背景、软边清理、质量检查、命名和 ZIP 打包。
-
-这也是一种更有温度的个人表达。你可以保留自己的脸、发型、衣服、习惯动作和幽默感，再把同一个形象做成卡通、像素、手绘、漫画、3D 黏土或复古游戏等不同风格。完成后的透明 PNG 可以用于微信和其他热门聊天平台，让每一次“收到”“加油”“稍等”都带着鲜明的个人辨识度。
-
-[观看微信实机演示](https://res.cloudinary.com/dax9eqmtk/video/upload/v1784263563/Screenrecorder-2026-07-17-12-40-30-210_jlrryj.mp4)
-
-想合作开发、定制场景包或交流使用体验，可以扫描上面的微信二维码。添加好友时备注 `Sticker Pack Maker`，也可以通过 [X](https://x.com/NeoWeb3Nova)、[Telegram](https://t.me/neo_web3_nova) 或[个人网站](https://amshe.fun)联系我。
-
-安装后可以直接这样使用：
-
-```text
-使用 $sticker-pack-maker，根据这张角色参考图制作 20 张中文 AI 场景表情包。
-保持人物、发型、服装和胸前文字一致，交付编号透明 PNG 和 ZIP 压缩包。
-```
 
 ## License
 

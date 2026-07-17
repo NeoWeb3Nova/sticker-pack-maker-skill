@@ -6,6 +6,7 @@ __pycache__/
 .sample-output/
 .sample-output.zip
 .tmp-compress/
+.baoyu-skills/
 dist/
 build/
 generated-blue/
