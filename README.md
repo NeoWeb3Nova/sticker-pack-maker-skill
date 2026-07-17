@@ -27,6 +27,27 @@
   </p>
 </div>
 
+## Turn your identity into a visual language
+
+> Your reactions should look like you.
+
+A personal sticker pack carries more than a reaction. It preserves your face, hairstyle, clothes, gestures, and sense of humor, then distills them into a visual character people recognize as yours.
+
+Keep the same identity while changing the art direction: polished cartoon, pixel art, hand-drawn doodle, comic ink, 3D clay, retro game sprite, or a style built around your brand and community. Bring the finished transparent PNGs into WeChat and other popular messaging platforms, and everyday replies become more expressive, memorable, and personal.
+
+## See it inside WeChat
+
+<p align="center">
+  <a href="https://res.cloudinary.com/dax9eqmtk/video/upload/v1784263563/Screenrecorder-2026-07-17-12-40-30-210_jlrryj.mp4">
+    <img src="media/demo-poster.jpg" width="420" alt="Video demonstration of a personalized AI and Web3 sticker pack being used inside WeChat">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://res.cloudinary.com/dax9eqmtk/video/upload/v1784263563/Screenrecorder-2026-07-17-12-40-30-210_jlrryj.mp4"><strong>Play the full demo</strong></a><br>
+  <sub>From a personal character to a sticker library ready for real conversations.</sub>
+</p>
+
 ## See the output first
 
 These four files came from the workflow in this repository. Each one is a 1254×1254 RGBA PNG with transparent outer pixels and a stable scene name.
@@ -215,6 +236,10 @@ If you publish a pack with this Skill, open a [Show and tell discussion](https:/
 ## 中文说明
 
 Sticker Pack Maker 把一张角色参考图变成一套经过校验的透明 PNG 表情包。它会规划不同场景，固定人物和画风，逐张处理气泡文字，保留已经生成的文件，再完成透明背景、软边清理、质量检查、命名和 ZIP 打包。
+
+这也是一种更有温度的个人表达。你可以保留自己的脸、发型、衣服、习惯动作和幽默感，再把同一个形象做成卡通、像素、手绘、漫画、3D 黏土或复古游戏等不同风格。完成后的透明 PNG 可以用于微信和其他热门聊天平台，让每一次“收到”“加油”“稍等”都带着鲜明的个人辨识度。
+
+[观看微信实机演示](https://res.cloudinary.com/dax9eqmtk/video/upload/v1784263563/Screenrecorder-2026-07-17-12-40-30-210_jlrryj.mp4)
 
 安装后可以直接这样使用：
 
